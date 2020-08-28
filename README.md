@@ -1,7 +1,10 @@
 # Primea-Entrega
 Simon Guzman Londoño
+
 201533711
+
 Link: https://simonguzm997.github.io/Primea-Entrega/
+
 This is a personal page made in HTML and CSS with minimal script functionalities
 It has four sections with a navigation bar. 
 -	Who am I? which contains personal information about me my growth 
