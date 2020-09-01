@@ -5,6 +5,15 @@
 @media (min-width: 1200px) {
 }
 
+
+/* Poner la imagen banner un poco más pequeña */
+header img
+{
+    height: 10rem;
+    object-fit: cover;
+
+
+}
 h1,
 h2,
 h3 {
@@ -14,6 +23,7 @@ p {
   text-align: justify;
   font-family: "Verdana", Geneva, sans-serif;
 }
+
 body {
   /* The image used */
   background-image: url("https://www.robovent.com/wp-content/uploads/blue-AutomotiveCalc_2018-background.jpg");
@@ -35,6 +45,18 @@ body {
   max-width: 100%;
   height: auto;
   border: 10px solid white;
+}
+/* Sugiero poner la imagenes del mismo tamaño para que se vea más cosnsitente.*/
+.img-hobbies
+{
+  height:13rem;
+  object-fit: fill;
+}
+
+.img-af
+{
+  height:11rem;
+  object-fit: cover;
 }
 
 /*W3 movable banner */
